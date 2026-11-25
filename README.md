@@ -1,4 +1,4 @@
-# IntelliBug — Phase 10 Release Package
+# IntelliBug Release Package
 
 **Final integration, packaging and project presentation**
 
@@ -14,7 +14,8 @@ Requirements:
 1. Extract the ZIP.
 2. Open the `IntelliBug-Phase10` folder (the folder containing `pom.xml`) in VS Code.
 3. Ensure MongoDB is running.
-4. Run `.un-intellibug.ps1` in PowerShell, or use the manual commands below.
+4. Run `.
+un-intellibug.ps1` in PowerShell, or use the manual commands below.
 
 ```powershell
 mvn clean test
